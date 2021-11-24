@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Pomchii/Pomchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```html
+<h2>Example of code</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            <img src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" alt="Minha Figura">
+            </div>
+        </div>
+    </div>
+</pre>
+```
